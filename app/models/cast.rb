@@ -1,0 +1,3 @@
+class Cast < ApplicationRecord
+end
+
